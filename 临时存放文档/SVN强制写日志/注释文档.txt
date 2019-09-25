@@ -1,0 +1,5 @@
+把这两个文件放到hooks目录里就可以了
+
+只能针对一个SVN库
+
+如Edu5_Development
